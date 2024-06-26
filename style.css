@@ -298,7 +298,7 @@
       border-radius: 5px;
       padding: 1rem 2rem;
       margin: 0 10rem;
-      max-width: 700px;
+ 
       font-size: 1rem;
       font-family: 'poppins';
    }
@@ -307,8 +307,14 @@
    border-radius: 5px;
    padding: 1rem 2rem;
    margin: 0 10rem;
-   max-width: 700px;
+
    font-size: 1rem;
    font-family: 'poppins';
+ }
+ li{
+   font-size: 2rem;
+ }
+ p{
+   font-size: 1.2rem;
  }
 }
