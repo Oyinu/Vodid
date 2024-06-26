@@ -215,7 +215,8 @@
       margin: 0 1rem;
    }
    .first{
-      width: 400px;
+      width: 500px;
+      margin-left: 3%;
    }
    .second{
       width: 200px;
@@ -226,7 +227,7 @@
          width:70%;
          border-radius: 50%; 
          height: auto;
-         margin-left: 27%;
+         margin-left: 15%;
       
    }
    #total-img{
@@ -250,9 +251,9 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 2rem 5rem;
+      padding: 2rem .4rem;
       margin: 3rem;
-    
+      
    }
    .about-content{
       border: 1px solid #e68926;
@@ -260,10 +261,11 @@
       padding: 1rem 2rem;
       margin: 0 10rem;
       font-size: 1rem;
-      max-width: 700px;
       align-items: center;
       justify-content: center;
       font-family: 'poppins';
+
+   
      
    }
    .forth{
@@ -285,6 +287,12 @@
       margin: 0 3rem;
       align-items: center;
    }
+   #presale-project{
+      padding: 2rem .4rem;
+   }
+   #collab-project{
+      padding: 2rem .4rem;
+   }
    .collab-content{
       border: 1px solid #e68926;
       border-radius: 5px;
@@ -294,7 +302,7 @@
       font-size: 1rem;
       font-family: 'poppins';
    }
- .presale-content{
+ .presale-content{ 
    border: 1px solid #e68926;
    border-radius: 5px;
    padding: 1rem 2rem;
