@@ -219,14 +219,14 @@
    }
    .second{
       width: 200px;
-      margin-left: 3.4rem;
+      margin-left: 33%;
    }
    .third{
       
          width:70%;
          border-radius: 50%; 
          height: auto;
-         margin-left: 10%;
+         margin-left: 27%;
       
    }
    #total-img{
@@ -261,7 +261,10 @@
       margin: 0 10rem;
       font-size: 1rem;
       max-width: 700px;
+      align-items: center;
+      justify-content: center;
       font-family: 'poppins';
+     
    }
    .forth{
       width:100%;
