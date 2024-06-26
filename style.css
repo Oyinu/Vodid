@@ -1,0 +1,279 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+.circular{
+    border-radius: 50%; 
+    width: 8%;
+    height: auto;
+  
+ }
+
+ header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ }
+ .sale{
+    padding: .6rem 1rem;
+    background-color: #e68926;
+    border: 1px solid black;
+    border-radius: 25px;
+    font-size: 1rem;
+    margin: 2rem;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+ }
+ ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+ }
+ ul li{
+    list-style: none;
+ }
+ ul li a{
+    padding: 3rem;
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: #e68926;
+ }
+.first{
+   width: 700px;
+}
+.second{
+   width: 300px;
+   margin-left: 3.4rem;
+}
+#heading{
+   display: inline-block;
+   align-items: center;
+   justify-content: space-between;
+}
+.third{
+   width:30%;
+   border-radius: 50%; 
+ 
+   height: auto;
+}
+#total-img{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 1rem 4rem;
+}
+.underlist{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding-right: 30%;
+   max-width: 700px;
+   margin-left: 10%;
+}
+.underlist .icons{
+   margin: 2rem;
+}
+.sale2{
+   padding: .6rem 1rem;
+   background-color: #e68926;
+   border: 1px solid black;
+   border-radius: 25px;
+   font-size: 1rem;
+   margin: 2rem;
+   width: 6rem;
+   margin-left: 10%;
+   cursor: pointer;
+   transition: all .3s ease-in-out;
+
+}
+.sale2 a{
+   color: black;
+   text-decoration: none;
+}
+.sale a{
+   color: black;
+   text-decoration: none;
+}
+.sale2:hover{
+   transform: translateY(-5px);
+}
+ .sale:hover{
+   transform: translateY(-5px);
+}
+.icons{
+   padding: .5rem .9rem;
+   margin-right: 4rem;
+   background-color: #e68926;
+   border: 1px solid black;
+   border-radius: 30px;
+   font-size: 1rem;
+   margin: 2rem; 
+   transition: all .3s ease-in-out;
+}
+.icons:hover{
+   transform: translateY(-5px);
+}
+.icons a{
+   font-size: 1.6rem;
+   color: #c4e8f2;
+} 
+#about-project{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 2rem 5rem;
+   margin: 3rem;
+ 
+}
+.about-content{
+   border: 1px solid #e68926;
+   border-radius: 5px;
+   padding: 1rem 2rem;
+   margin: 0 10rem;
+}
+.forth{
+   width:80%;
+   padding: 1rem 5rem;
+   margin: 0 3rem;
+   align-items: center;
+   margin-right: 2rem;
+}
+#presale-project{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 2rem 5rem;
+   margin: 3rem;
+ 
+}
+.presale-content{
+   border: 1px solid #e68926;
+   border-radius: 5px;
+   padding: 1rem 2rem;
+   margin: 0 10rem;
+}
+.fifth{
+   width: 40%;
+}
+#collab-project{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 2rem 5rem;
+   margin: 3rem;
+ 
+}
+.collab-content{
+   border: 1px solid #e68926;
+   border-radius: 5px;
+   padding: 1rem 2rem;
+   margin: 0 10rem;
+}
+.sixth{
+   width: 60%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:768px) {
+   .first{
+      width: 400px;
+   }
+   .second{
+      width: 200px;
+      margin-left: 3.4rem;
+   }
+   .third{
+      
+         width:70%;
+         border-radius: 50%; 
+         height: auto;
+         margin-left: 10%;
+      
+   }
+   #total-img{
+      display: inline-block;
+      align-items: center;
+      justify-content:center;
+      padding: 1rem 2rem;
+      margin: 0 50%;
+   }
+   .underlist{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 2rem;
+      
+   }
+   .underlist .icons{
+      margin: 2rem;
+   }
+   #about-project{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 2rem 5rem;
+      margin: 3rem;
+    
+   }
+   .about-content{
+      border: 1px solid #e68926;
+      border-radius: 5px;
+      padding: 1rem 2rem;
+      margin: 0 10rem;
+   }
+   .forth{
+      width:100%;
+      padding: 1rem 10rem;
+      margin: 0 3rem;
+      align-items: center;
+     
+   }
+   .fifth{
+      width:100%;
+      padding: 1rem 10rem;
+      margin: 0 3rem;
+      align-items: center;
+   }
+   .sixth{
+      width:100%;
+      padding: 1rem 10rem;
+      margin: 0 3rem;
+      align-items: center;
+   }
+   .collab-content{
+      border: 1px solid #e68926;
+      border-radius: 5px;
+      padding: 1rem 2rem;
+      margin: 0 10rem;
+   }
+ 
+}
