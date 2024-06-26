@@ -258,8 +258,8 @@
    .about-content{
       border: 1px solid #e68926;
       border-radius: 5px;
-      padding: 1rem 2rem;
-      margin: 0 10rem;
+      padding: 1rem 6rem;
+      margin: 0 10.3rem;
       font-size: 1rem;
       align-items: center;
       justify-content: center;
@@ -296,7 +296,7 @@
    .collab-content{
       border: 1px solid #e68926;
       border-radius: 5px;
-      padding: 1rem 2rem;
+      padding: 1rem 8rem;
       margin: 0 10rem;
  
       font-size: 1rem;
@@ -305,7 +305,7 @@
  .presale-content{ 
    border: 1px solid #e68926;
    border-radius: 5px;
-   padding: 1rem 2rem;
+   padding: 1rem 3.4rem;
    margin: 0 10rem;
 
    font-size: 1rem;
