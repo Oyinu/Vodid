@@ -252,7 +252,7 @@
       align-items: center;
       justify-content: space-between;
       padding: 2rem .4rem;
-      margin: 3rem;
+      margin: 1rem;
       
    }
    .about-content{
@@ -289,9 +289,11 @@
    }
    #presale-project{
       padding: 2rem .4rem;
+      margin: 1rem;
    }
    #collab-project{
       padding: 2rem .4rem;
+      margin: 1rem;
    }
    .collab-content{
       border: 1px solid #e68926;
